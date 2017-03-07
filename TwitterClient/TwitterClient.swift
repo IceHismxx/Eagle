@@ -1,6 +1,6 @@
 //
 //  TwitterClient.swift
-//  TwitterClient
+//  Eagle
 //
 //  Created by Kyle Leung on 2/27/17.
 //  Copyright © 2017 Kyle Leung. All rights reserved.
